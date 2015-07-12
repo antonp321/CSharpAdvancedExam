@@ -1,0 +1,6 @@
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\Dash\Dash\bin\Debug\Dash.exe.config
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\Dash\Dash\bin\Debug\Dash.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\Dash\Dash\bin\Debug\Dash.pdb
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\Dash\Dash\obj\Debug\Dash.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\Dash\Dash\obj\Debug\Dash.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\Dash\Dash\obj\Debug\Dash.pdb

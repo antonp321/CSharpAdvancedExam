@@ -1,0 +1,6 @@
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\Parachute\Parachute\bin\Debug\Parachute.exe.config
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\Parachute\Parachute\bin\Debug\Parachute.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\Parachute\Parachute\bin\Debug\Parachute.pdb
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\Parachute\Parachute\obj\Debug\Parachute.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\Parachute\Parachute\obj\Debug\Parachute.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\Parachute\Parachute\obj\Debug\Parachute.pdb

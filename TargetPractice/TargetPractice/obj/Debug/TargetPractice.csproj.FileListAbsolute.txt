@@ -1,0 +1,6 @@
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\TargetPractice\TargetPractice\bin\Debug\TargetPractice.exe.config
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\TargetPractice\TargetPractice\bin\Debug\TargetPractice.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\TargetPractice\TargetPractice\bin\Debug\TargetPractice.pdb
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\TargetPractice\TargetPractice\obj\Debug\TargetPractice.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\TargetPractice\TargetPractice\obj\Debug\TargetPractice.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\TargetPractice\TargetPractice\obj\Debug\TargetPractice.pdb

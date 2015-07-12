@@ -1,0 +1,6 @@
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\VladosNotebook\VladosNotebook\bin\Debug\VladosNotebook.exe.config
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\VladosNotebook\VladosNotebook\bin\Debug\VladosNotebook.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\VladosNotebook\VladosNotebook\bin\Debug\VladosNotebook.pdb
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\VladosNotebook\VladosNotebook\obj\Debug\VladosNotebook.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\VladosNotebook\VladosNotebook\obj\Debug\VladosNotebook.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\VladosNotebook\VladosNotebook\obj\Debug\VladosNotebook.pdb

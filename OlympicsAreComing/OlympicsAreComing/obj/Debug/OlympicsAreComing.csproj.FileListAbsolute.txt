@@ -1,0 +1,6 @@
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\OlympicsAreComing\OlympicsAreComing\bin\Debug\OlympicsAreComing.exe.config
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\OlympicsAreComing\OlympicsAreComing\bin\Debug\OlympicsAreComing.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\OlympicsAreComing\OlympicsAreComing\bin\Debug\OlympicsAreComing.pdb
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\OlympicsAreComing\OlympicsAreComing\obj\Debug\OlympicsAreComing.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\OlympicsAreComing\OlympicsAreComing\obj\Debug\OlympicsAreComing.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\OlympicsAreComing\OlympicsAreComing\obj\Debug\OlympicsAreComing.pdb

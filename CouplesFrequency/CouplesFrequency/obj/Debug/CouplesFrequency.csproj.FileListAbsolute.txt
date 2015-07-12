@@ -1,0 +1,6 @@
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\CouplesFrequency\CouplesFrequency\bin\Debug\CouplesFrequency.exe.config
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\CouplesFrequency\CouplesFrequency\bin\Debug\CouplesFrequency.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\CouplesFrequency\CouplesFrequency\bin\Debug\CouplesFrequency.pdb
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\CouplesFrequency\CouplesFrequency\obj\Debug\CouplesFrequency.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\CouplesFrequency\CouplesFrequency\obj\Debug\CouplesFrequency.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\CouplesFrequency\CouplesFrequency\obj\Debug\CouplesFrequency.pdb

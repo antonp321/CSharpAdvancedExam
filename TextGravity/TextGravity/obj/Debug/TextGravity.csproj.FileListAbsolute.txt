@@ -1,0 +1,6 @@
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\TextGravity\TextGravity\bin\Debug\TextGravity.exe.config
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\TextGravity\TextGravity\bin\Debug\TextGravity.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\TextGravity\TextGravity\bin\Debug\TextGravity.pdb
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\TextGravity\TextGravity\obj\Debug\TextGravity.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\TextGravity\TextGravity\obj\Debug\TextGravity.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\TextGravity\TextGravity\obj\Debug\TextGravity.pdb

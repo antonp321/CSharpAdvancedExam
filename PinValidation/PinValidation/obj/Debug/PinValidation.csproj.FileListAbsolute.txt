@@ -1,0 +1,6 @@
+C:\Users\T410\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\PinValidation\PinValidation\bin\Debug\PinValidation.exe.config
+C:\Users\T410\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\PinValidation\PinValidation\bin\Debug\PinValidation.exe
+C:\Users\T410\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\PinValidation\PinValidation\bin\Debug\PinValidation.pdb
+C:\Users\T410\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\PinValidation\PinValidation\obj\Debug\PinValidation.csprojResolveAssemblyReference.cache
+C:\Users\T410\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\PinValidation\PinValidation\obj\Debug\PinValidation.exe
+C:\Users\T410\Desktop\SoftUni\1 Fundamental Level\01 C# Advanced\Подготовка за изпит\ExamProblems\PinValidation\PinValidation\obj\Debug\PinValidation.pdb
